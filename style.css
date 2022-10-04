@@ -17,3 +17,9 @@ ul {
     margin: 0;
     padding: 0;
 }
+
+.inner {
+    width: 86.4%;
+    margin-left: auto;
+    margin-right: auto;
+}
